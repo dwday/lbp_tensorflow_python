@@ -9,7 +9,7 @@ Example application:
     import matplotlib.pyplot as plt
     
     # put your test image here
-    path='ILSVRC2012_test_00000689.jpg'
+    path='images/ILSVRC2012_test_00000689.jpg'
     
     img_org =image.load_img(path,target_size=(224,224,1),color_mode='grayscale')
     img_org=image.img_to_array(img_org)
@@ -51,17 +51,17 @@ tensor flow elapsed_time= 0.011996269226074219
 ```
 Input image:
 
-![alt text](input_file.png)
+![alt text](images/input_file.png)
 
 
 LBP using python:
 
-![alt text](lbp_pyhton.png)
+![alt text](images/lbp_pyhton.png)
 
 
 LBP using Tensorflow:
 
-![alt text](lbp_tf.png)
+![alt text](images/lbp_tf.png)
 
 
 Reference:
