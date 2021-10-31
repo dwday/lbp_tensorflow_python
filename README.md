@@ -65,8 +65,10 @@ LBP using Tensorflow:
 
 
 Reference:
+
 AKGÜN, D. A TensorFlow implementation of Local Binary Patterns Transform. MANAS Journal of Engineering, 9(1), 15-21.  
 
 I'm planning to add similar work for LDP: 
+
 AKGÜN, D. A Tensorflow Based Method For Local Derivative Pattern. Mugla Journal of Science and Technology, 7(1), 59-64.
 
