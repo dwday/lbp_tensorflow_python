@@ -64,6 +64,6 @@ LBP using Tensorflow:
 ![alt text](lbp_tf.png)
 
 
+Reference:
 
-
-    
+AKGÜN, D. A TensorFlow implementation of Local Binary Patterns Transform. MANAS Journal of Engineering, 9(1), 15-21.  
