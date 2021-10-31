@@ -31,11 +31,14 @@ Example application:
     
     # Show input and output images
     plt.figure(1)
-    plt.imshow(img_org,cmap='gray' )    
+    plt.imshow(img_org,cmap='gray' )
+    plt.title('Input file')    
     plt.figure(2)
-    plt.imshow(yTf.reshape(Rows,Cols,1) ,cmap='gray' )
-    plt.figure(3)
     plt.imshow(yPy ,cmap='gray' )
+    plt.title('LBP output using Python functions')
+    plt.figure(3)
+    plt.imshow(yTf.reshape(Rows,Cols,1) ,cmap='gray' )
+    plt.title('LBP output using TensorFlow functions') 
 ```
 Console output:
 ```python
@@ -47,14 +50,18 @@ python elapsed_time= 1.086390495300293
 tensor flow elapsed_time= 0.011996269226074219
 ```
 Input image:
-![alt text](http://url/to/img.png)
+
+![alt text](input_file.png)
 
 
 LBP using python:
 
+![alt text](lbp_pyhton.png)
+
 
 LBP using Tensorflow:
 
+![alt text](lbp_tf.png)
 
 
 
