@@ -1,6 +1,12 @@
 # Local Binary Patterns using TensorFlow
 ![alt text](images/lpb_rgb_gray.png)
 
+Process whole dataset:
+
+![alt text](images/cifar10_rgb_lbp.jpg)
+
+
+
 Reference studies:
 
 [Akgun, D., A TensorFlow implementation of Local Binary Patterns Transform. MANAS Journal of Engineering, 9(1), 15-21. DOI:10.51354/mjen.822630](https://www.researchgate.net/publication/363250644_A_TensorFlow_implementation_of_Local_Binary_Patterns_Transform)
