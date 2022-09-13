@@ -7,4 +7,4 @@ Reference studies:
 LBP Pytorch
 [Akgun, D., Akgun, Devrim. "A PyTorch Operations Based Approach for Computing Local Binary Patterns." U. Porto Journal of Engineering 7.4 (2021): 61-69. https://doi.org/10.24840/2183-6493_007.004_0005 ](https://www.researchgate.net/publication/356572689_PyTorch_Operations_Based_Approach_for_Computing_Local_Binary_Patterns)
 
-[Akgün, D. "A TensorFlow based method for local derivative pattern." Mugla Journal of Science and Technology 7.1 (2021): 59-64. DOI:10.22531/muglajsci.830691 ]https://www.researchgate.net/publication/349905348_TensorFlow_Accelerated_Feature_Extraction_Using_Local_Derivative_Pattern
+[Akgün, D. "A TensorFlow based method for local derivative pattern." Mugla Journal of Science and Technology 7.1 (2021): 59-64. DOI:10.22531/muglajsci.830691](https://www.researchgate.net/publication/349905348_TensorFlow_Accelerated_Feature_Extraction_Using_Local_Derivative_Pattern)
