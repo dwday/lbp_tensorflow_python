@@ -29,15 +29,11 @@ def tf_extract_lbp_rgb(x_train):
     x_train_lbp[:,:,:,1]=tf_lbp(x_train[:,:,:,1].astype('uint8')).numpy()
     x_train_lbp[:,:,:,2]=tf_lbp(x_train[:,:,:,2].astype('uint8')).numpy()
     return x_train_lbp
-
+"""
 def tf_extract_lbp_gray(x_train):
-    [N,Rows,Cols,Channels]=x_train.shape
-    x_train_lbp=np.zeros(shape=(N,Rows,Cols,Channels),dtype='uint8') 
-    x_train_lbp[:,:,:,0]=tf_lbp(x_train[:,:,:,0].astype('uint8')).numpy()
-    x_train_lbp[:,:,:,1]=tf_lbp(x_train[:,:,:,1].astype('uint8')).numpy()
-    x_train_lbp[:,:,:,2]=tf_lbp(x_train[:,:,:,2].astype('uint8')).numpy()
+    x_train_lbp=tf_lbp(x_train.astype('uint8')).numpy()
     return x_train_lbp
-
+"""
 # Load test dataset    
 (x_train, y_train), (x_test, y_test) = cifar10.load_data()
 #use first 100 images for test
