@@ -67,7 +67,7 @@ def tf_lbp(Im):
     
     # Comparisons 
     # 1 -----------------------------------------        
-    g=tf.greater_equal(y01,y11) #g=tf.greater_equal(y01,y11)
+    g=tf.greater_equal(y01,y11) 
     z=tf.multiply(tf.cast(g,dtype='uint8'), 
                   tf.constant(1,dtype='uint8') )      
     # 2 -----------------------------------------
