@@ -4,6 +4,11 @@
 LBP implementations using Python and Tensorflow
 py_lbp : lbp using Pyton 
 tf_lbp : lbp using TensorFlow
+
+for details:
+AKGÜN, D. "A TensorFlow implementation of Local Binary Patterns Transform." 
+MANAS Journal of Engineering 9.1: 15-21, 2021, doi.org/10.51354/mjen.822630
+https
 """
 import tensorflow as tf
 import numpy as np
