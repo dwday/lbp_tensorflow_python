@@ -1,7 +1,7 @@
 # Local Binary Patterns using TensorFlow
 ![alt text](images/lpb_rgb_gray.png)
 
-# Process Cifar10 dataset:
+# Processing Cifar10 dataset with LBP:
 
 ![alt text](images/cifar10_rgb_lbp.jpg)
 
