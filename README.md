@@ -7,7 +7,7 @@
 
 
 
-# Cite below work if you find it useful:
+### Cite below work if you find it useful:
 [Akgun, D., A TensorFlow implementation of Local Binary Patterns Transform. MANAS Journal of Engineering, 9(1), 15-21. DOI:10.51354/mjen.822630](https://www.researchgate.net/publication/363250644_A_TensorFlow_implementation_of_Local_Binary_Patterns_Transform)
 
 ## LBP Pytorch implementation:
