@@ -1,4 +1,4 @@
-# Local Binary Patterns using TensorFlow
+# Fast Local Binary Patterns using TensorFlow
 ![alt text](images/lpb_rgb_gray.png)
 
 # Processing Cifar10 dataset with LBP:
