@@ -8,8 +8,13 @@
 
 
 ### Please cite below works if you find it useful:
-[Akgun, Devrim, Selman Hizal, and Unal Cavusoglu. "A new DDoS attacks intrusion detection model based on deep learning for cybersecurity." Computers & Security 118 (2022): 102748 (https://www.researchgate.net/publication/360327782_A_New_DDoS_Attacks_Intrusion_Detection_Model_Based_on_Deep_Learning_for_Cybersecurity)
+[Akgun, D., A TensorFlow implementation of Local Binary Patterns Transform. MANAS Journal of Engineering, 9(1), 15-21. DOI:10.51354/mjen.822630](https://www.researchgate.net/publication/363250644_A_TensorFlow_implementation_of_Local_Binary_Patterns_Transform)
 
 
-[Hizal, Selman, Ünal ÇAVUŞOĞLU, and Devrim AKGÜN. "A New Deep Learning Based Intrusion Detection System for Cloud Security." 2021 3rd International Congress on Human-Computer Interaction, Optimization and Robotic Applications (HORA). IEEE, 2021](https://www.researchgate.net/publication/352811809_A_new_Deep_Learning_Based_Intrusion_Detection_System_for_Cloud_Security)
+## LBP Pytorch implementation:
 
+[Akgun, Devrim. "A PyTorch Operations Based Approach for Computing Local Binary Patterns." U. Porto Journal of Engineering 7.4 (2021): 61-69. https://doi.org/10.24840/2183-6493_007.004_0005 ](https://www.researchgate.net/publication/356572689_PyTorch_Operations_Based_Approach_for_Computing_Local_Binary_Patterns)
+
+## LDP using TensorFlow:
+
+[Akgün, D. "A TensorFlow based method for local derivative pattern." Mugla Journal of Science and Technology 7.1 (2021): 59-64. DOI:10.22531/muglajsci.830691](https://www.researchgate.net/publication/349905348_TensorFlow_Accelerated_Feature_Extraction_Using_Local_Derivative_Pattern)
