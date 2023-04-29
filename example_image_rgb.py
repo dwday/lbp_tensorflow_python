@@ -2,6 +2,10 @@
 # -*- coding: utf-8 -*-
 """
 Test file for rgb and grascale outputs  
+Please cite below works if you find it useful:
+Akgun, D., A TensorFlow implementation of Local Binary Patterns Transform. MANAS Journal of Engineering, 9(1), 15-21. DOI:10.51354/mjen.822630
+Akgun, Devrim. "A PyTorch Operations Based Approach for Computing Local Binary Patterns." U. Porto Journal of Engineering 7.4 (2021): 61-69. https://doi.org/10.24840/2183-6493_007.004_0005
+"""
 """
 from lib.lbplib import py_lbp,tf_lbp
 from tensorflow.keras.preprocessing import image
