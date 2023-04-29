@@ -5,6 +5,7 @@
 
 ![alt text](images/cifar10_rgb_lbp.jpg)
 
+[A custom TensorFlow layer for local derivative patterns](https://github.com/dwday/deep-learning-ldp-layer)
 
 
 ### Please cite below works if you find it useful:
