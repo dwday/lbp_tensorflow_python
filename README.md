@@ -3,7 +3,7 @@
 
 # Processing Cifar10 dataset with LBP:
 
-**[lbp_notebook.ipynb](lbp_notebook.ipynb)** 
+# **[lbp_notebook.ipynb](lbp_notebook.ipynb)** 
 
 ![alt text](images/cifar10_rgb_lbp.jpg)
 
