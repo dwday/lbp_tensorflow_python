@@ -7,7 +7,7 @@
 
 ![alt text](images/cifar10_rgb_lbp.jpg)
 
-# LDP processing of Cifar10:
+# [LDP processing of Cifar10:](https://github.com/dwday/deep-learning-ldp-layer)
 [A custom TensorFlow layer for local derivative patterns](https://github.com/dwday/deep-learning-ldp-layer)
 
 
