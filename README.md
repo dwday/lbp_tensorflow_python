@@ -3,6 +3,8 @@
 
 # Processing Cifar10 dataset with LBP:
 
+lbp_notebook.ipynb
+
 ![alt text](images/cifar10_rgb_lbp.jpg)
 
 # LDP processing of Cifar10:
