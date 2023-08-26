@@ -8,7 +8,7 @@
 ![alt text](images/cifar10_rgb_lbp.jpg)
 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/dwday/lbp_tensorflow_python/blob/main/lbp_notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dwday/lbp_tensorflow_python/blob/main/lbp_notebook.ipynb)
 
 
 # [LDP processing of Cifar10:](https://github.com/dwday/deep-learning-ldp-layer)
