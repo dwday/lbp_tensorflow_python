@@ -4,7 +4,7 @@
 # Processing Cifar10 dataset with LBP:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/dwday/lbp_tensorflow_python/blob/main/lbp_notebook.ipynb)
-# **[lbp_notebook.ipynb](lbp_notebook.ipynb)** 
+**[lbp_notebook.ipynb](lbp_notebook.ipynb)** 
 
 ![alt text](images/cifar10_rgb_lbp.jpg)
 
